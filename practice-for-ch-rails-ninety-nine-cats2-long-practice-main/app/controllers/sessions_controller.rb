@@ -13,4 +13,8 @@ class SessionsController < ApplicationController
     redirect_to cats_url
   end
 
+  def destroy
+
+  end
+
 end
